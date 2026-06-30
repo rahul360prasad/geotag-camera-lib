@@ -1,0 +1,25 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Fish Body (facing right, positioned off center to circle) -->
+    <path
+        android:fillColor="#0284c7"
+        android:pathData="M15,8 C15,6 20,5 24,8 C20,11 15,10 15,8 Z" />
+    <!-- Fish Tail -->
+    <path
+        android:fillColor="#0284c7"
+        android:pathData="M15,8 L10,5 L11,8 L10,11 Z" />
+    <!-- Outer Water Whirl -->
+    <path
+        android:strokeColor="#38bdf8"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M12,2 A10,10 0 0,1 22,12" />
+    <path
+        android:strokeColor="#7dd3fc"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M12,22 A10,10 0 0,1 2,12" />
+</vector>

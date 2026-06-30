@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/layout-v26/mtrl_calendar_month.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/layout-v26/mtrl_calendar_month.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/layout-v26/abc_screen_toolbar.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-appcompat-1.6.1-30:/layout-v26/abc_screen_toolbar.xml"
+    }
+]

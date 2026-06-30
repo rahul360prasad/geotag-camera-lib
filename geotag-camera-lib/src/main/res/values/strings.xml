@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AquaNIRNAY</string>
+    <string name="GPSAlertDialogTitle">Title for GPS Alert Dialog</string>
+    <string name="GPSAlertDialogMessage">Message for GPS Alert Dialog</string>
+    <string name="action_settings">Settings</string>
+    <string name="cancel">Cancel</string>
+
+
+    <string-array name="array_type">
+        <item>Select Distinctness...</item>
+        <item>Abrupt</item>
+        <item>Clear</item>
+        <item>Gradual</item>
+        <item>Diffuse</item>
+    </string-array>
+</resources>

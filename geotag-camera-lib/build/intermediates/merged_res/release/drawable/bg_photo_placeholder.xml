@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Card Background with dashed stroke -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#F8FAFC" />
+            <stroke
+                android:width="2dp"
+                android:color="#CBD5E1"
+                android:dashWidth="8dp"
+                android:dashGap="4dp" />
+            <corners android:radius="16dp" />
+        </shape>
+    </item>
+    <!-- Camera Icon in the center -->
+    <item
+        android:drawable="@drawable/ic_camera_placeholder"
+        android:width="48dp"
+        android:height="48dp"
+        android:gravity="center" />
+</layer-list>

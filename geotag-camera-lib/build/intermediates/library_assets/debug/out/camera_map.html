@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ol@v8.2.0/ol.css" type="text/css">
+    <style>
+        html, body { 
+            margin: 0; 
+            padding: 0; 
+            overflow: hidden; 
+            width: 100%; 
+            height: 100%; 
+            background-color: #1B3A2D; 
+        }
+        #map-container {
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+            position: relative;
+        }
+        #map { 
+            width: 300px; 
+            height: 300px; 
+            position: absolute;
+            top: 0;
+            left: 0;
+            transform: scale(0.306666); /* scale 92px / 300px to fit container */
+            transform-origin: top left;
+        }
+        .ol-control, .ol-attribution { display: none !important; }
+    </style>
+</head>
+<body>
+    <div id="map-container">
+        <div id="map"></div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/ol@v8.2.0/dist/ol.js"></script>
+    <script>
+        var map, markerFeature;
+
+        function getDpr() {
+            var params = new URLSearchParams(window.location.search);
+            var dpr = parseFloat(params.get('dpr'));
+            return (isNaN(dpr) || dpr <= 0) ? window.devicePixelRatio || 1 : dpr;
+        }
+
+        function initMap() {
+            markerFeature = new ol.Feature({
+                geometry: new ol.geom.Point(ol.proj.fromLonLat([79.0246762, 21.152840]))
+            });
+
+            // Scale marker size up to compensate for the 0.306 CSS scale down
+            var markerStyle = new ol.style.Style({
+                image: new ol.style.Circle({
+                    radius: 20,
+                    fill: new ol.style.Fill({color: '#FF5252'}),
+                    stroke: new ol.style.Stroke({color: '#FFFFFF', width: 6})
+                })
+            });
+            markerFeature.setStyle(markerStyle);
+
+            var vectorSource = new ol.source.Vector({ features: [markerFeature] });
+            var vectorLayer = new ol.layer.Vector({ source: vectorSource });
+
+            var dpr = getDpr();
+
+            map = new ol.Map({
+                target: 'map',
+                pixelRatio: dpr,
+                layers: [
+                    new ol.layer.Tile({
+                        source: new ol.source.XYZ({
+                            url: 'https://mt1.google.com/vt/lyrs=y&x={x}&y={y}&z={z}&scale=2',
+                            maxZoom: 20,
+                            crossOrigin: 'anonymous'
+                        })
+                    }),
+                    vectorLayer
+                ],
+                view: new ol.View({
+                    center: ol.proj.fromLonLat([79.0246762, 21.152840]),
+                    zoom: 18.5
+                }),
+                controls: [],
+                interactions: []
+            });
+
+            // Capture initial load
+            map.once('rendercomplete', triggerCapture);
+        }
+
+        function triggerCapture() {
+            try {
+                if (!map) return;
+                var mapCanvas = document.createElement('canvas');
+                var size = map.getSize();
+                if (!size) return;
+                mapCanvas.width = size[0];
+                mapCanvas.height = size[1];
+                var mapContext = mapCanvas.getContext('2d');
+                
+                var layers = document.querySelectorAll('.ol-layer canvas');
+                Array.prototype.forEach.call(layers, function(canvas) {
+                    if (canvas.width > 0) {
+                        var opacity = canvas.parentNode.style.opacity;
+                        mapContext.globalAlpha = opacity === '' ? 1 : Number(opacity);
+                        var transform = canvas.style.transform;
+                        var matrix;
+                        if (transform) {
+                            matrix = transform
+                                .match(/^matrix\(([^)]*)\)$/)[1]
+                                .split(',')
+                                .map(Number);
+                        } else {
+                            matrix = [
+                                parseFloat(canvas.style.width) / canvas.width,
+                                0,
+                                0,
+                                parseFloat(canvas.style.height) / canvas.height,
+                                0,
+                                0
+                            ];
+                        }
+                        CanvasRenderingContext2D.prototype.setTransform.apply(
+                            mapContext,
+                            matrix
+                        );
+                        mapContext.drawImage(canvas, 0, 0);
+                    }
+                });
+                
+                mapContext.globalAlpha = 1;
+                mapContext.setTransform(1, 0, 0, 1, 0, 0);
+                var dataUri = mapCanvas.toDataURL('image/png');
+                if (window.AndroidInterface && window.AndroidInterface.onMapCaptured) {
+                    window.AndroidInterface.onMapCaptured(dataUri);
+                }
+            } catch (e) {
+                console.error("Capture map error: ", e);
+            }
+        }
+
+        window.updateLocation = function(lat, lon) {
+            if (map && markerFeature) {
+                var coords = ol.proj.fromLonLat([lon, lat]);
+                markerFeature.setGeometry(new ol.geom.Point(coords));
+                map.getView().setCenter(coords);
+                
+                // Capture update
+                map.once('rendercomplete', triggerCapture);
+                map.render();
+            }
+        };
+
+        // Initialize after page loads
+        if (document.readyState === 'complete' || document.readyState === 'interactive') {
+            setTimeout(initMap, 100);
+        } else {
+            document.addEventListener('DOMContentLoaded', function() {
+                setTimeout(initMap, 100);
+            });
+        }
+    </script>
+</body>
+</html>

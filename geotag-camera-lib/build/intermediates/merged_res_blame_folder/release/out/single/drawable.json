@@ -1,0 +1,1098 @@
+[
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-play-services-base-18.1.0-7:/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/mtrl_checkbox_button.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/mtrl_checkbox_button.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_shutter_inner_pro.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_shutter_inner_pro.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_surveys.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/ic_surveys.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_camera_switch.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/ic_camera_switch.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/mtrl_checkbox_button_icon_checked_indeterminate.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/mtrl_checkbox_button_icon_checked_indeterminate.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/abc_ic_menu_paste_mtrl_am_alpha.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-appcompat-1.6.1-30:/drawable/abc_ic_menu_paste_mtrl_am_alpha.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-play-services-base-18.1.0-7:/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_aqua_spinner.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/ic_aqua_spinner.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/abc_cab_background_top_material.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-appcompat-1.6.1-30:/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_theme_toggle.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_theme_toggle.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_close.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/ic_close.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/round_boundary_report.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/round_boundary_report.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-appcompat-1.6.1-30:/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_launcher_background.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_clear_black_24.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/ic_clear_black_24.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/btn_radio_off_mtrl.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-appcompat-1.6.1-30:/drawable/btn_radio_off_mtrl.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/mtrl_tabs_default_indicator.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/mtrl_tabs_default_indicator.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/mtrl_switch_thumb_unchecked_pressed.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/mtrl_switch_thumb_unchecked_pressed.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/common_google_signin_btn_text_light.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-play-services-base-18.1.0-7:/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/select_img.png",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/select_img.png"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/mtrl_switch_thumb_unchecked_checked.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/mtrl_switch_thumb_unchecked_checked.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_check_circle.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/ic_check_circle.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/mtrl_checkbox_button_icon_checked_unchecked.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/mtrl_checkbox_button_icon_checked_unchecked.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/home.png",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/home.png"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-play-services-base-18.1.0-7:/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/abc_seekbar_track_material.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-appcompat-1.6.1-30:/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_photo_placeholder.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_photo_placeholder.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_logout.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/ic_logout.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/login.png",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/login.png"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_chip_dark_green.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_chip_dark_green.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_filter_pill_purple.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_filter_pill_purple.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/logout.png",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/logout.png"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/notification_tile_bg.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-core-1.9.0-23:/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-appcompat-1.6.1-30:/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_floating_drawer.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_floating_drawer.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/round_corners.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/round_corners.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/mtrl_checkbox_button_icon_indeterminate_unchecked.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/mtrl_checkbox_button_icon_indeterminate_unchecked.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/mtrl_dialog_background.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/mtrl_dialog_background.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/abc_ic_search_api_material.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-appcompat-1.6.1-30:/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/baseline_notifications_active_24.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/baseline_notifications_active_24.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_glass_input.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_glass_input.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/m3_avd_show_password.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/m3_avd_show_password.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_pdf_custom.png",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/ic_pdf_custom.png"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_mtrl_chip_checked_black.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/ic_mtrl_chip_checked_black.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_circle_white.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_circle_white.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/abc_star_half_black_48dp.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-appcompat-1.6.1-30:/drawable/abc_star_half_black_48dp.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/mtrl_ic_arrow_drop_up.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/mtrl_ic_arrow_drop_up.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/design_fab_background.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-play-services-base-18.1.0-7:/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_dark_header_curve.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_dark_header_curve.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_home_awesome.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/ic_home_awesome.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_drawer_header.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_drawer_header.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/design_password_eye.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/design_password_eye.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_keyboard_black_24dp.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/ic_keyboard_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_menu.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/ic_menu.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_theme_dark.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/ic_theme_dark.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/mtrl_switch_track.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/mtrl_switch_track.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_chip_status.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_chip_status.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_settings_gear.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/ic_settings_gear.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-play-services-base-18.1.0-7:/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-play-services-base-18.1.0-7:/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_moon_small.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/ic_moon_small.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/tooltip_frame_dark.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-appcompat-1.6.1-30:/drawable/tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_spinner_popup.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_spinner_popup.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-play-services-base-18.1.0-7:/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/cifa_logo.png",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/cifa_logo.png"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/pdf_document.png",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/pdf_document.png"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_chevron_down_white.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/ic_chevron_down_white.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_chip_dark_amber.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_chip_dark_amber.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_bottom_sheet.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-play-services-base-18.1.0-7:/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/mtrl_ic_checkbox_checked.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/mtrl_ic_checkbox_checked.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_circle_purple_tint.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_circle_purple_tint.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/anim_aqua_spinner.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/anim_aqua_spinner.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_timer_off.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/ic_timer_off.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/m3_tabs_line_indicator.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/m3_tabs_line_indicator.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_m3_chip_checked_circle.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/ic_m3_chip_checked_circle.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/abc_ic_menu_selectall_mtrl_alpha.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-appcompat-1.6.1-30:/drawable/abc_ic_menu_selectall_mtrl_alpha.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/mtrl_switch_thumb.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/mtrl_switch_thumb.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_all_locations.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/ic_all_locations.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_neon_badge.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_neon_badge.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_dialog_dark.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_dialog_dark.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/material_ic_edit_black_24dp.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/material_ic_edit_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_drawer_watermark.png",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_drawer_watermark.png"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_dashboard.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/ic_dashboard.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_page_dark.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_page_dark.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/m3_tabs_rounded_line_indicator.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/m3_tabs_rounded_line_indicator.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/mtrl_checkbox_button_unchecked_checked.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/mtrl_checkbox_button_unchecked_checked.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/abc_ic_go_search_api_material.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-appcompat-1.6.1-30:/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_timer_3s.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/ic_timer_3s.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_mtrl_chip_checked_circle.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/ic_mtrl_chip_checked_circle.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_status_pending.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/ic_status_pending.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/mtrl_checkbox_button_icon.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/mtrl_checkbox_button_icon.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-play-services-base-18.1.0-7:/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_team_group.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/ic_team_group.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/material_ic_keyboard_arrow_right_black_24dp.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/material_ic_keyboard_arrow_right_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/img_gallery.png",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/img_gallery.png"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_filter_pill.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_filter_pill.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/material_ic_keyboard_arrow_left_black_24dp.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/material_ic_keyboard_arrow_left_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_circle_ocean.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_circle_ocean.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/btn_checkbox_checked_mtrl.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-appcompat-1.6.1-30:/drawable/btn_checkbox_checked_mtrl.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/mtrl_ic_error.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/mtrl_ic_error.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-appcompat-1.6.1-30:/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/logo2.jpg",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/logo2.jpg"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-appcompat-1.6.1-30:/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_add_circle.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/ic_add_circle.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/mtrl_ic_arrow_drop_down.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/mtrl_ic_arrow_drop_down.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/design_snackbar_background.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_globe.png",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/ic_globe.png"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/dot_indicator_red.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/dot_indicator_red.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/abc_item_background_holo_dark.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-appcompat-1.6.1-30:/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/mtrl_switch_thumb_unchecked.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/mtrl_switch_thumb_unchecked.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/mtrl_switch_thumb_pressed_checked.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/mtrl_switch_thumb_pressed_checked.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/m3_bottom_sheet_drag_handle.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/m3_bottom_sheet_drag_handle.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/logo1.png",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/logo1.png"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/avd_hide_password.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/avd_hide_password.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_geotag_glass.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_geotag_glass.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_spinner_modern.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_spinner_modern.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/custom_progress_bar.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/custom_progress_bar.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_neon_circle.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_neon_circle.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/logo22.jpg",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/logo22.jpg"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/mtrl_switch_thumb_checked_pressed.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/mtrl_switch_thumb_checked_pressed.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/abc_switch_thumb_material.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-appcompat-1.6.1-30:/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/material_ic_clear_black_24dp.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/material_ic_clear_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/abc_text_cursor_material.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-appcompat-1.6.1-30:/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_toggle_ball.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_toggle_ball.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/baseline_cameraswitch_24.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/baseline_cameraswitch_24.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-appcompat-1.6.1-30:/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-appcompat-1.6.1-30:/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/circle.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/circle.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/abc_ratingbar_small_material.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-appcompat-1.6.1-30:/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_approved_check.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/ic_approved_check.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/rectangle_boundary.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/rectangle_boundary.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_gradient_button.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_gradient_button.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_dock_chip.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_dock_chip.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/abc_ic_menu_share_mtrl_alpha.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-appcompat-1.6.1-30:/drawable/abc_ic_menu_share_mtrl_alpha.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/left_back.png",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/left_back.png"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_shutter_outer_pro.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_shutter_outer_pro.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/notification_bg_low.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-core-1.9.0-23:/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_sun_small.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/ic_sun_small.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_chip_blue.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_chip_blue.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_timer_10s.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/ic_timer_10s.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/navigation_empty_icon.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/abc_vector_test.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-appcompat-resources-1.6.1-25:/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_dock_chip_active.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_dock_chip_active.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/tooltip_frame_light.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-appcompat-1.6.1-30:/drawable/tooltip_frame_light.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/abc_list_selector_holo_light.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-appcompat-1.6.1-30:/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/abc_ic_ab_back_material.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-appcompat-1.6.1-30:/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/material_ic_calendar_black_24dp.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/material_ic_calendar_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_theme_light.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/ic_theme_light.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-play-services-base-18.1.0-7:/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_sharp_location_on_24.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/ic_sharp_location_on_24.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/mtrl_checkbox_button_icon_unchecked_indeterminate.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/mtrl_checkbox_button_icon_unchecked_indeterminate.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_chip_amber.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_chip_amber.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_location_pin.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/ic_location_pin.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_my_reports.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/ic_my_reports.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_m3_chip_check.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/ic_m3_chip_check.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_zoom_active.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_zoom_active.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/abc_ic_clear_material.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-appcompat-1.6.1-30:/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/btn_radio_on_mtrl.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-appcompat-1.6.1-30:/drawable/btn_radio_on_mtrl.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/abc_textfield_search_material.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-appcompat-1.6.1-30:/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-appcompat-1.6.1-30:/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_home.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/btn_radio_on_to_off_mtrl_animation.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-appcompat-1.6.1-30:/drawable/btn_radio_on_to_off_mtrl_animation.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/abc_ic_menu_cut_mtrl_alpha.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-appcompat-1.6.1-30:/drawable/abc_ic_menu_cut_mtrl_alpha.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/mtrl_ic_check_mark.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/mtrl_ic_check_mark.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/abc_btn_check_material.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-appcompat-1.6.1-30:/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_download.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/ic_download.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_distance_map.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/ic_distance_map.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/mtrl_switch_thumb_checked_unchecked.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/mtrl_switch_thumb_checked_unchecked.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_control_btn.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_control_btn.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/btn_radio_off_to_on_mtrl_animation.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-appcompat-1.6.1-30:/drawable/btn_radio_off_to_on_mtrl_animation.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/mtrl_switch_thumb_pressed_unchecked.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/mtrl_switch_thumb_pressed_unchecked.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/abc_btn_check_material_anim.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-appcompat-1.6.1-30:/drawable/abc_btn_check_material_anim.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_pending_clock.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/ic_pending_clock.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_arrow_back_black_24.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/ic_arrow_back_black_24.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_nav_item.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_nav_item.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/abc_tab_indicator_material.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-appcompat-1.6.1-30:/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/mtrl_ic_checkbox_unchecked.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/mtrl_ic_checkbox_unchecked.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-appcompat-1.6.1-30:/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/mtrl_checkbox_button_icon_unchecked_checked.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/mtrl_checkbox_button_icon_unchecked_checked.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_shutter_inner.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_shutter_inner.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_thumbnail_border.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_thumbnail_border.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_map_nav.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/ic_map_nav.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/abc_btn_radio_material_anim.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-appcompat-1.6.1-30:/drawable/abc_btn_radio_material_anim.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/mtrl_ic_cancel.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/mtrl_ic_cancel.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_sun.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/ic_sun.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/mtrl_checkbox_button_icon_indeterminate_checked.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/mtrl_checkbox_button_icon_indeterminate_checked.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_shutter_outer.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_shutter_outer.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_mtrl_chip_close_circle.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/ic_mtrl_chip_close_circle.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_generate_report.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/ic_generate_report.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/img_camera.png",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/img_camera.png"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_spinner_outlined.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_spinner_outlined.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/m3_password_eye.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/m3_password_eye.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/abc_star_black_48dp.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-appcompat-1.6.1-30:/drawable/abc_star_black_48dp.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-appcompat-1.6.1-30:/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_calendar.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/ic_calendar.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/mtrl_switch_thumb_checked.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/mtrl_switch_thumb_checked.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_drawer_header_rounded.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_drawer_header_rounded.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_spinner_glass.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_spinner_glass.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_filter_pill_cyan.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_filter_pill_cyan.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_home_custom.png",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/ic_home_custom.png"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_wave.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_wave.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-appcompat-1.6.1-30:/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/abc_seekbar_thumb_material.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-appcompat-1.6.1-30:/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_logout_button.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_logout_button.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/mtrl_switch_track_decoration.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/mtrl_switch_track_decoration.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_capture_bar.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_capture_bar.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_offline_download.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/ic_offline_download.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/notification_icon_background.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-core-1.9.0-23:/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/abc_cab_background_internal_bg.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-appcompat-1.6.1-30:/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/mtrl_popupmenu_background.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/mtrl_popupmenu_background.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/m3_avd_hide_password.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/m3_avd_hide_password.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_circle_brand_tint.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_circle_brand_tint.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/material_ic_menu_arrow_down_black_24dp.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/material_ic_menu_arrow_down_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/mtrl_checkbox_button_checked_unchecked.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/mtrl_checkbox_button_checked_unchecked.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_bottom_rounded_white.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_bottom_rounded_white.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_flash_auto.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/ic_flash_auto.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_sync_cloud.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/ic_sync_cloud.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-play-services-base-18.1.0-7:/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_ocean_gradient.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_ocean_gradient.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_coordinates.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/ic_coordinates.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_flash_on.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/ic_flash_on.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/material_ic_menu_arrow_up_black_24dp.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/material_ic_menu_arrow_up_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-play-services-base-18.1.0-7:/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_nav_item_active.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_nav_item_active.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/mtrl_bottomsheet_drag_handle.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/mtrl_bottomsheet_drag_handle.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_outline_file_download_24.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/ic_outline_file_download_24.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_glass_card.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_glass_card.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_spinner_outline.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_spinner_outline.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_dropdown_arrow.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/ic_dropdown_arrow.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/abc_item_background_holo_light.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-appcompat-1.6.1-30:/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_clock_black_24dp.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/ic_clock_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/rounded_boundary.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/rounded_boundary.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/logo3.png",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/logo3.png"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/design_ic_visibility_off.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_zoom_pill.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_zoom_pill.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/gradient_background.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/gradient_background.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/abc_btn_borderless_material.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-appcompat-1.6.1-30:/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/mtrl_dropdown_arrow.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/mtrl_dropdown_arrow.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_camera_top_bar.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_camera_top_bar.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/mtrl_switch_thumb_pressed.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/mtrl_switch_thumb_pressed.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/background_color_report.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/background_color_report.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_focus_ring.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/ic_focus_ring.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_camera_placeholder.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/ic_camera_placeholder.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-play-services-base-18.1.0-7:/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_user_profile.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/ic_user_profile.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/btn_checkbox_unchecked_mtrl.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-appcompat-1.6.1-30:/drawable/btn_checkbox_unchecked_mtrl.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_toggle_track.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_toggle_track.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_mode_pill.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_mode_pill.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/abc_list_selector_holo_dark.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-appcompat-1.6.1-30:/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_neon_gradient.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_neon_gradient.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_pdf_awesome.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/ic_pdf_awesome.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/all_background_design.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/all_background_design.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-appcompat-1.6.1-30:/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_mtrl_checked_circle.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/ic_mtrl_checked_circle.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/abc_btn_radio_material.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-appcompat-1.6.1-30:/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_flash_off.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/ic_flash_off.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/notification_bg.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-core-1.9.0-23:/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/mtrl_ic_indeterminate.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/mtrl_ic_indeterminate.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/abc_ic_menu_copy_mtrl_am_alpha.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-appcompat-1.6.1-30:/drawable/abc_ic_menu_copy_mtrl_am_alpha.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/shadow_design.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/shadow_design.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/abc_ratingbar_material.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-appcompat-1.6.1-30:/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_warning_amber.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/ic_warning_amber.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/floating_btn_boundary.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/floating_btn_boundary.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_search_black_24.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/ic_search_black_24.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/ic_m3_chip_close.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/ic_m3_chip_close.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/design_ic_visibility.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/design_ic_visibility.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/avd_show_password.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/drawable/avd_show_password.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_white_pill.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_white_pill.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/test_level_drawable.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-appcompat-1.6.1-30:/drawable/test_level_drawable.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_glass_field.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_glass_field.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/drawable/bg_chip_green.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-main-38:/drawable/bg_chip_green.xml"
+    }
+]

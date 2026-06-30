@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Dark glass base -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#D9101418" />
+            <corners android:radius="16dp" />
+        </shape>
+    </item>
+    <!-- Subtle white border -->
+    <item>
+        <shape android:shape="rectangle">
+            <stroke
+                android:width="0.5dp"
+                android:color="#25FFFFFF" />
+            <corners android:radius="16dp" />
+            <solid android:color="@android:color/transparent" />
+        </shape>
+    </item>
+    <!-- Cyan left accent bar -->
+    <item
+        android:right="0dp"
+        android:top="12dp"
+        android:bottom="12dp"
+        android:width="3dp">
+        <shape android:shape="rectangle">
+            <solid android:color="#00D4FF" />
+            <corners android:radius="2dp" />
+        </shape>
+    </item>
+</layer-list>

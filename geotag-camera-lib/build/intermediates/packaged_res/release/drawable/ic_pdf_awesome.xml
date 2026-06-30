@@ -1,0 +1,41 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Document Body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M6,2H14L20,8V20C20,21.1 19.1,22 18,22H6C4.9,22 4,21.1 4,20V4C4,2.9 4.9,2 6,2Z"/>
+
+    <!-- Document Border -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M14,2V8H20"/>
+
+    <!-- Folded Corner -->
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M14,2L20,8H14Z"/>
+
+    <!-- PDF Label Background -->
+    <path
+        android:fillColor="#DC2626"
+        android:pathData="M5,15H19V20C19,20.55 18.55,21 18,21H6C5.45,21 5,20.55 5,20V15Z"/>
+
+    <!-- P -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M7,17H8.2C8.75,17 9.1,17.35 9.1,17.9C9.1,18.45 8.75,18.8 8.2,18.8H7.6V19.8H7V17ZM7.6,18.3H8.1C8.35,18.3 8.5,18.15 8.5,17.9C8.5,17.65 8.35,17.5 8.1,17.5H7.6V18.3Z"/>
+
+    <!-- D -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M10,17H11.1C11.9,17 12.5,17.55 12.5,18.4C12.5,19.25 11.9,19.8 11.1,19.8H10V17ZM10.6,17.5V19.3H11.05C11.55,19.3 11.9,18.95 11.9,18.4C11.9,17.85 11.55,17.5 11.05,17.5H10.6Z"/>
+
+    <!-- F -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M13.5,17H15.5V17.5H14.1V18.1H15.3V18.6H14.1V19.8H13.5V17Z"/>
+</vector>

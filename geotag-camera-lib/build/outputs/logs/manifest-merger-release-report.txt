@@ -1,0 +1,70 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\HP\AndroidStudioProjects\GeotagCameraX\geotag-camera-lib\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\HP\AndroidStudioProjects\GeotagCameraX\geotag-camera-lib\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		INJECTED from C:\Users\HP\AndroidStudioProjects\GeotagCameraX\geotag-camera-lib\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\HP\AndroidStudioProjects\GeotagCameraX\geotag-camera-lib\src\main\AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.camera
+ADDED from C:\Users\HP\AndroidStudioProjects\GeotagCameraX\geotag-camera-lib\src\main\AndroidManifest.xml:4:5-84
+	android:required
+		ADDED from C:\Users\HP\AndroidStudioProjects\GeotagCameraX\geotag-camera-lib\src\main\AndroidManifest.xml:4:58-81
+	android:name
+		ADDED from C:\Users\HP\AndroidStudioProjects\GeotagCameraX\geotag-camera-lib\src\main\AndroidManifest.xml:4:19-57
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\HP\AndroidStudioProjects\GeotagCameraX\geotag-camera-lib\src\main\AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from C:\Users\HP\AndroidStudioProjects\GeotagCameraX\geotag-camera-lib\src\main\AndroidManifest.xml:6:22-62
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\HP\AndroidStudioProjects\GeotagCameraX\geotag-camera-lib\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from C:\Users\HP\AndroidStudioProjects\GeotagCameraX\geotag-camera-lib\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\HP\AndroidStudioProjects\GeotagCameraX\geotag-camera-lib\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\Users\HP\AndroidStudioProjects\GeotagCameraX\geotag-camera-lib\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\HP\AndroidStudioProjects\GeotagCameraX\geotag-camera-lib\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from C:\Users\HP\AndroidStudioProjects\GeotagCameraX\geotag-camera-lib\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\HP\AndroidStudioProjects\GeotagCameraX\geotag-camera-lib\src\main\AndroidManifest.xml:10:5-107
+	android:maxSdkVersion
+		ADDED from C:\Users\HP\AndroidStudioProjects\GeotagCameraX\geotag-camera-lib\src\main\AndroidManifest.xml:10:78-104
+	android:name
+		ADDED from C:\Users\HP\AndroidStudioProjects\GeotagCameraX\geotag-camera-lib\src\main\AndroidManifest.xml:10:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\HP\AndroidStudioProjects\GeotagCameraX\geotag-camera-lib\src\main\AndroidManifest.xml:11:5-108
+	android:maxSdkVersion
+		ADDED from C:\Users\HP\AndroidStudioProjects\GeotagCameraX\geotag-camera-lib\src\main\AndroidManifest.xml:11:79-105
+	android:name
+		ADDED from C:\Users\HP\AndroidStudioProjects\GeotagCameraX\geotag-camera-lib\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.READ_MEDIA_IMAGES
+ADDED from C:\Users\HP\AndroidStudioProjects\GeotagCameraX\geotag-camera-lib\src\main\AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from C:\Users\HP\AndroidStudioProjects\GeotagCameraX\geotag-camera-lib\src\main\AndroidManifest.xml:12:22-73
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\HP\AndroidStudioProjects\GeotagCameraX\geotag-camera-lib\src\main\AndroidManifest.xml:13:5-66
+	android:name
+		ADDED from C:\Users\HP\AndroidStudioProjects\GeotagCameraX\geotag-camera-lib\src\main\AndroidManifest.xml:13:22-63
+application
+ADDED from C:\Users\HP\AndroidStudioProjects\GeotagCameraX\geotag-camera-lib\src\main\AndroidManifest.xml:15:5-21:19
+activity#com.example.geotagcamera.CustomCameraActivity
+ADDED from C:\Users\HP\AndroidStudioProjects\GeotagCameraX\geotag-camera-lib\src\main\AndroidManifest.xml:16:9-20:66
+	android:screenOrientation
+		ADDED from C:\Users\HP\AndroidStudioProjects\GeotagCameraX\geotag-camera-lib\src\main\AndroidManifest.xml:19:13-49
+	android:exported
+		ADDED from C:\Users\HP\AndroidStudioProjects\GeotagCameraX\geotag-camera-lib\src\main\AndroidManifest.xml:18:13-36
+	android:theme
+		ADDED from C:\Users\HP\AndroidStudioProjects\GeotagCameraX\geotag-camera-lib\src\main\AndroidManifest.xml:20:13-63
+	android:name
+		ADDED from C:\Users\HP\AndroidStudioProjects\GeotagCameraX\geotag-camera-lib\src\main\AndroidManifest.xml:17:13-49
+uses-sdk
+INJECTED from C:\Users\HP\AndroidStudioProjects\GeotagCameraX\geotag-camera-lib\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\HP\AndroidStudioProjects\GeotagCameraX\geotag-camera-lib\src\main\AndroidManifest.xml
+INJECTED from C:\Users\HP\AndroidStudioProjects\GeotagCameraX\geotag-camera-lib\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\HP\AndroidStudioProjects\GeotagCameraX\geotag-camera-lib\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\HP\AndroidStudioProjects\GeotagCameraX\geotag-camera-lib\src\main\AndroidManifest.xml

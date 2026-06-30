@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/layout-sw600dp-v13/mtrl_layout_snackbar.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/layout-sw600dp-v13/mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/layout-sw600dp-v13/design_layout_snackbar.xml"
+    }
+]

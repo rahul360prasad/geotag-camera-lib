@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple_primary">#7C3AED</color>
+
+    <!-- Redesign Theme Colors (legacy — kept for backward compat) -->
+    <color name="ocean_blue_dark">#00334E</color>
+    <color name="ocean_blue_primary">#0277AC</color>
+    <color name="ocean_blue_light">#03A9F4</color>
+    <color name="ocean_tint_dark">#D9001B2E</color>
+    <color name="glass_white">#F2FFFFFF</color>
+    <color name="text_hint_color">#757575</color>
+    <color name="coral_accent">#FF7043</color>
+
+    <!-- UCrop colors -->
+    <color name="ucrop_color_toolbar">#009688</color>
+    <color name="ucrop_color_statusbar">#3F51B5</color>
+    <color name="ucrop_color_widget_active">#4CAF50</color>
+
+    <!-- ═══════════════════════════════════════════════ -->
+    <!--  SEMANTIC COLOR TOKENS — LIGHT THEME           -->
+    <!-- ═══════════════════════════════════════════════ -->
+
+    <!-- Page Backgrounds -->
+    <color name="page_background">#F0F7FF</color>
+    <color name="page_background_tint">#DD76D5FF</color>
+    <color name="surface_primary">#FFFFFF</color>
+    <color name="surface_secondary">#E3F2FD</color>
+    <color name="surface_elevated">#F8FAFC</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#1E293B</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="text_heading">#00334E</color>
+    <color name="text_on_primary">#FFFFFF</color>
+    <color name="text_body_dark">#0F172A</color>
+
+    <!-- Brand Colors -->
+    <color name="brand_ocean">#0277AC</color>
+    <color name="brand_ocean_light">#0369A1</color>
+    <color name="brand_purple">#7C3AED</color>
+    <color name="brand_teal">#00BCD4</color>
+
+    <!-- Icon Tints -->
+    <color name="icon_tint_ocean">#0277AC</color>
+    <color name="icon_tint_purple">#8B5CF6</color>
+
+    <!-- Status Colors -->
+    <color name="status_pending">#D97706</color>
+    <color name="status_approved">#16A34A</color>
+    <color name="status_bg_pending">#FFF3E0</color>
+    <color name="status_bg_approved">#E8F5E9</color>
+
+    <!-- Divider / Separator -->
+    <color name="divider">#1F000000</color>
+
+    <!-- Spinner Text -->
+    <color name="spinner_text">#0F172A</color>
+    <color name="spinner_dropdown_text">#1E293B</color>
+
+    <!-- Overlay -->
+    <color name="overlay_dark">#E6000000</color>
+    <color name="photo_overlay">#99000000</color>
+
+    <!-- Toolbar -->
+    <color name="toolbar_bg">#0277AC</color>
+
+    <!-- Map page -->
+    <color name="map_page_bg">#F8FAFC</color>
+
+    <!-- Dialog background -->
+    <color name="dialog_bg">#FFFFFF</color>
+
+    <!-- Theme Toggle -->
+    <color name="toggle_bg">#E8F4FD</color>
+    <color name="toggle_border">#B3D9F2</color>
+    <color name="toggle_icon_tint">#F59E0B</color>
+</resources>

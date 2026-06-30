@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/layout-land/material_clock_period_toggle_land.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/layout-land/material_clock_period_toggle_land.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/layout-land/material_timepicker.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/layout-land/material_timepicker.xml"
+    },
+    {
+        "merged": "com.example.geotagcamera.geotag-camera-lib-merged_res-37:/layout-land/mtrl_picker_header_dialog.xml",
+        "source": "com.example.geotagcamera.geotag-camera-lib-material-1.10.0-6:/layout-land/mtrl_picker_header_dialog.xml"
+    }
+]

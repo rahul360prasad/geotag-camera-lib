@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Base gradient background shape -->
+    <item>
+        <shape android:shape="rectangle">
+            <gradient
+                android:startColor="#003D5C"
+                android:endColor="#001827"
+                android:angle="270" />
+            <corners android:radius="24dp" />
+        </shape>
+    </item>
+
+    <!-- Watermark image layer -->
+    <item>
+        <bitmap
+            android:src="@drawable/bg_drawer_watermark"
+            android:gravity="fill"
+            android:alpha="0.15" />
+    </item>
+</layer-list>

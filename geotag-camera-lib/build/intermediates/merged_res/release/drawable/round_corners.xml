@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/drawable/item_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#EF6E6E" /> <!-- Replace with your desired background color -->
+    <corners android:radius="15dp" />
+</shape>
