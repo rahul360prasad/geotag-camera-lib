@@ -28,7 +28,7 @@ GeotagCameraX is a highly customizable, production-ready Android library that al
 | <img src="docs/screenshots/picker.png" width="200"/> | <img src="docs/screenshots/preview.jpg" width="200"/> | <img src="docs/screenshots/AquaStack_1.jpeg" width="200"/> | <img src="docs/screenshots/Screenshot_1.jpeg" width="200"/> |
 
 | Screen 2 | Screen 3 | Screen 4 | Screen 5 |
-|:---------:|:--------:|:--------:|:--------:|
+|:--------:|:--------:|:--------:|:--------:|
 | <img src="docs/screenshots/Screenshot_2.jpeg" width="200"/> | <img src="docs/screenshots/Screenshot_3.jpeg" width="200"/> | <img src="docs/screenshots/Screenshot_4.jpeg" width="200"/> | <img src="docs/screenshots/Screenshot_5.jpeg" width="200"/> |
 
 ---
